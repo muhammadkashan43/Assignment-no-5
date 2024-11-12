@@ -12,10 +12,12 @@ export const nunitoSans = Nunito_Sans({
   weight: ['400', '600'],
   subsets: ['latin'],
 });
+
 export const libreBodoni = Libre_Bodoni({
   weight: ['400', '700'],
   subsets: ['latin'],
 });
+
 export const rye = Rye({
     subsets: ['latin'],
     weight: '400',
